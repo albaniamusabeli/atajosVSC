@@ -5,5 +5,5 @@
 Alt + ↑ / ↓
 ```
 
->sort line ascending
+>sort line ascending (ordena alfabéticamente)
 

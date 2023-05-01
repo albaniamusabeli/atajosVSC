@@ -4,20 +4,25 @@
 ```
 Alt + ↑ / ↓
 ```
-
+ó
+```
 >sort line ascending (ordena alfabéticamente)
+```
 
 ## Hacer comentarios de linea
 ```
 Ctrl + }
 ```
-
-> toggle line comment
-
+ó
+```
+>toggle line comment
+```
 
 ## Comentar una sección de código
 ```
 Shift + Alt + A
 ```
-
+ó
+```
 >toggle block comment
+```

@@ -7,3 +7,7 @@ Alt + ↑ / ↓
 
 >sort line ascending (ordena alfabéticamente)
 
+## Hacer comentarios de linea
+```
+Ctrl + }
+```

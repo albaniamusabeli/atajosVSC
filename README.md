@@ -1,35 +1,23 @@
-<p align="center">
-  <a href="https://fernando-herrera.com/" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
-</p>
+# Atajos en VSC
 
-# Curso de VSCode
-Un repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
+## Ordenar una lista
+```
+Alt + ↑ / ↓
+```
 
-También hay un par de extensiones bastante útiles que les recomiendo de entrada
+>sort line ascending (ordena alfabéticamente)
 
-* [Descargar VSCode - Sitio Oficial](https://code.visualstudio.com/)
+## Hacer comentarios de linea
+```
+Ctrl + }
+```
 
-## Extensiones
-
-# Indispensables:
-
-* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-
-* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-
-* [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
-
-* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-
-* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+> toggle line comment
 
 
-## Tema usado durante el curso
+## Comentar una sección de código
+```
+Shift + Alt + A
+```
 
-* [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
-
-
-# Wallpapers que uso
-[Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
+>toggle block comment
